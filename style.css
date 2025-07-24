@@ -3,6 +3,7 @@
 body {
 	font-family: "Inter", sans-serif;
     color: #949393;
+background-color: #5F78DF;
     margin: 0;
 }
 .logo img {
@@ -127,7 +128,7 @@ input::placeholder{
 }
 
 .copyright p {
-    color: #626262;
+    color: white;
     font-size: 14px;
 }
 
@@ -162,14 +163,14 @@ img.sideimg {
 	color: #000;
 }
 .four-container h4 {
-    color: #000;
+    color: white;
     font-size: 18px;
     font-weight: 600;
     margin-bottom: 10px;
     margin-top: 0;
 }
 .four-container p {
-    color: #767676;
+    color: white;
     font-size: 14px;
     font-weight: 400;
     margin-bottom: 0;
